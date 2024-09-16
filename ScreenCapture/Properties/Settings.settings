@@ -1,0 +1,27 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="ScreenCapture.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="CaptureToClipboard" Type="System.Boolean" Scope="Application">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="CaptureToFile" Type="System.Boolean" Scope="Application">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="EnterCaptureModeKey" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">ALT+A</Value>
+    </Setting>
+    <Setting Name="CaptureToFileDestination" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">C:\Users\egeme\OneDrive\Resimler</Value>
+    </Setting>
+    <Setting Name="Stroke" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">#FF8A2BE2</Value>
+    </Setting>
+    <Setting Name="StrokeThickness" Type="System.Double" Scope="Application">
+      <Value Profile="(Default)">2</Value>
+    </Setting>
+    <Setting Name="ExitCaptureModeKey" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">ESCAPE</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
